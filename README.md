@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![Gao sj Github Stats](https://github-readme-stats.vercel.app/api?username=g101418&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<a href="https://github.com/g101418/Learning-English-By-Translation">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=g101418&repo=Learning-English-By-Translation" />
 </a>
