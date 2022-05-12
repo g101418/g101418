@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=g101418.g101418)
 
----
-<a href="https://github.com/g101418/Learning-English-By-Translation">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=g101418&repo=Learning-English-By-Translation" />
-</a>
